@@ -1,0 +1,16 @@
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\bin\Debug\net5.0\DifferentCarsVariants.exe
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\bin\Debug\net5.0\DifferentCarsVariants.deps.json
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\bin\Debug\net5.0\DifferentCarsVariants.runtimeconfig.json
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\bin\Debug\net5.0\DifferentCarsVariants.runtimeconfig.dev.json
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\bin\Debug\net5.0\DifferentCarsVariants.dll
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\bin\Debug\net5.0\ref\DifferentCarsVariants.dll
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\bin\Debug\net5.0\DifferentCarsVariants.pdb
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\DifferentCarsVariants.csprojAssemblyReference.cache
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\DifferentCarsVariants.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\DifferentCarsVariants.AssemblyInfoInputs.cache
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\DifferentCarsVariants.AssemblyInfo.cs
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\DifferentCarsVariants.csproj.CoreCompileInputs.cache
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\DifferentCarsVariants.dll
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\ref\DifferentCarsVariants.dll
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\DifferentCarsVariants.pdb
+E:\Training\Practice\Strategy\DifferentCarsVariants\DifferentCarsVariants\obj\Debug\net5.0\DifferentCarsVariants.genruntimeconfig.cache
