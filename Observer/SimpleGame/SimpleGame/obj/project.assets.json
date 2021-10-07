@@ -8,21 +8,17 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Cmaujluk\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Cmaujluk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Practice\\Observer\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
+      "projectUniqueName": "E:\\Training\\Practice\\Observer\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
       "projectName": "SimpleGame",
-      "projectPath": "E:\\Practice\\Observer\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
+      "projectPath": "E:\\Training\\Practice\\Observer\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
       "packagesPath": "C:\\Users\\Cmaujluk\\.nuget\\packages\\",
-      "outputPath": "E:\\Practice\\Observer\\SimpleGame\\SimpleGame\\obj\\",
+      "outputPath": "E:\\Training\\Practice\\Observer\\SimpleGame\\SimpleGame\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Cmaujluk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
