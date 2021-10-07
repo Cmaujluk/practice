@@ -1,0 +1,16 @@
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\bin\Debug\net5.0\PapaJohn's.exe
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\bin\Debug\net5.0\PapaJohn's.deps.json
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\bin\Debug\net5.0\PapaJohn's.runtimeconfig.json
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\bin\Debug\net5.0\PapaJohn's.runtimeconfig.dev.json
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\bin\Debug\net5.0\PapaJohn's.dll
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\bin\Debug\net5.0\ref\PapaJohn's.dll
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\bin\Debug\net5.0\PapaJohn's.pdb
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\PapaJohn's.csprojAssemblyReference.cache
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\PapaJohn's.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\PapaJohn's.AssemblyInfoInputs.cache
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\PapaJohn's.AssemblyInfo.cs
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\PapaJohn's.csproj.CoreCompileInputs.cache
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\PapaJohn's.dll
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\ref\PapaJohn's.dll
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\PapaJohn's.pdb
+E:\Training\Practice\Decorator\PapaJohn's\PapaJohn's\obj\Debug\net5.0\PapaJohn's.genruntimeconfig.cache
